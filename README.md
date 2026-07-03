@@ -8,8 +8,7 @@ risk of Shadow AI.
 **Background.** Cyberdefense student at Argentina's National Defense
 University (UNDEF/FADENA) and Social Psychology student (completing 2027).
 ISACA student member, training under the mentorship of an ISACA Buenos
-Aires VP (COBIT 2019 → ISO 38500 → ITIL 4 track). Preparing for the
-ISC2 CC certification.
+Aires VP (COBIT 2019 → ISO 38500 → ITIL 4 track).
 
 **What you will find here.** Not code for its own sake. This account
 documents risk analysis work: case studies, risk registers, framework

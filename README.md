@@ -1,4 +1,4 @@
-# Sebastián Garay
+# Sebastian Garay
 
 GRC-track analyst in training, focused on the intersection of governance
 frameworks and human behavior: why people bypass security controls, and

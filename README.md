@@ -19,8 +19,8 @@ point: it shows how each analysis evolved.
 
 | Repository | What it is | Status |
 |---|---|---|
+| [sggaray.vercel.app](https://sggaray.vercel.app/)  | Portfolio site | Live |
 | [cisco-ctf-2026](https://github.com/SGGaray/cisco-ctf-2026) | Cisco Americas Cyber Games 2026 CTF: 37/37 flags, 3/3 missions, no hints, vs. 1,500+ students across the Americas | Complete |
-| [sggaray.vercel.app](https://sggaray.vercel.app/) · | Portfolio site | Live |
 | [grc-case-studies](https://github.com/SGGaray/grc-case-studies) | Uber 2022 breach analysis mapped to NIST CSF 2.0 & ISO 27001 | Live |
 | [web-vuln-control-mapping](https://github.com/SGGaray/web-vuln-control-mapping) | Common web vulnerabilities mapped to risk, controls, and frameworks | Live |
 

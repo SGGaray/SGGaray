@@ -32,6 +32,6 @@ ISO 27001, NIST CSF, ITIL 4
 
 ## Links
 
-Portfolio: [sggaray.github.io](https://sggaray.github.io/) ·
+Portfolio: [sggaray.vercel.app](https://sggaray.vercel.app/) ·
 LinkedIn: [in/sebastian-garay](https://www.linkedin.com/in/sebastian-garay/) ·
 Contact: garaysebastiang@gmail.com

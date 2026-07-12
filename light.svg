@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="508" viewBox="0 0 780 508" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="14">
+<rect x="0.5" y="0.5" width="779" height="507" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<circle cx="24" cy="24" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="24" r="6" fill="#ffbd2e"/>
+<circle cx="64" cy="24" r="6" fill="#27c93f"/>
+<text x="390.0" y="28" text-anchor="middle" fill="#57606a">sebas@grc: profile.sh</text>
+<line x1="0" y1="42" x2="780" y2="42" stroke="#d0d7de"/>
+<text x="32" y="64" fill="#0550ae">sebas@grc ~ % ./profile.sh --live</text>
+<text x="32" y="116"><tspan fill="#116329" font-weight="bold">Subject</tspan><tspan fill="#8c959f"> ..... </tspan><tspan fill="#24292f">Sebastian Garay</tspan></text>
+<text x="32" y="142"><tspan fill="#116329" font-weight="bold">Role</tspan><tspan fill="#8c959f"> ........ </tspan><tspan fill="#24292f">GRC Analyst (Jr) - Human Risk &amp; Shadow AI</tspan></text>
+<text x="32" y="168"><tspan fill="#116329" font-weight="bold">Origin</tspan><tspan fill="#8c959f"> ...... </tspan><tspan fill="#24292f">San Pedro, Buenos Aires, AR</tspan></text>
+<text x="32" y="194"><tspan fill="#116329" font-weight="bold">Education</tspan><tspan fill="#8c959f"> ... </tspan><tspan fill="#24292f">Lic. Ciberdefensa (UNDEF) - Psic. Social (AMVA)</tspan></text>
+<text x="32" y="220"><tspan fill="#116329" font-weight="bold">Frameworks</tspan><tspan fill="#8c959f"> .. </tspan><tspan fill="#24292f">ISO 27001 - NIST CSF 2.0 - COBIT 2019</tspan></text>
+<text x="32" y="246"><tspan fill="#116329" font-weight="bold">Focus</tspan><tspan fill="#8c959f"> ....... </tspan><tspan fill="#24292f">VIDA Model - Behavioral Security - Shadow AI Gov.</tspan></text>
+<text x="32" y="272"><tspan fill="#116329" font-weight="bold">Status</tspan><tspan fill="#8c959f"> ...... </tspan><tspan fill="#24292f">Building - Learning - Shipping</tspan></text>
+<text x="32" y="324" fill="#953800">-------- Contact --------</text>
+<text x="32" y="350"><tspan fill="#116329" font-weight="bold">Mail</tspan><tspan fill="#8c959f"> ........ </tspan><tspan fill="#24292f">garaysebastiang@gmail.com</tspan></text>
+<text x="32" y="376"><tspan fill="#116329" font-weight="bold">Portfolio</tspan><tspan fill="#8c959f"> ... </tspan><tspan fill="#24292f">sggaray.vercel.app</tspan></text>
+<text x="32" y="402"><tspan fill="#116329" font-weight="bold">LinkedIn</tspan><tspan fill="#8c959f"> .... </tspan><tspan fill="#24292f">linkedin.com/in/sebastian-garay</tspan></text>
+<text x="32" y="454" fill="#8c959f">&gt; links clickeables abajo / clickable links below</text>
+</svg>

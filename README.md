@@ -1,37 +1,29 @@
-# Sebastian Garay
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Sebastian Garay - GRC profile card" src="dark.svg">
+</picture>
 
-GRC-track analyst in training, focused on the intersection of governance
-frameworks and human behavior: why people bypass security controls, and
-what that means for risk management, security culture, and the emerging
-risk of Shadow AI.
+<p>
+  <a href="https://www.linkedin.com/in/sebastian-garay/"><img src="https://img.shields.io/badge/LinkedIn-sebastian--garay-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:garaysebastiang@gmail.com"><img src="https://img.shields.io/badge/Mail-garaysebastiang%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Mail"></a>
+  <a href="https://sggaray.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sggaray.vercel.app-000000?logo=vercel&logoColor=white" alt="Portfolio"></a>
+</p>
 
-**Background.** Cyberdefense student at Argentina's National Defense
-University (UNDEF/FADENA) and Social Psychology student (completing 2027).
-ISACA student member, training under the mentorship of an ISACA Buenos
-Aires VP (COBIT 2019 → ISO 38500 → ITIL 4 track).
+## Sobre mí
 
-**What you will find here.** Not code for its own sake. This account
-documents risk analysis work: case studies, risk registers, framework
-gap analyses, and structured writeups. Version history is part of the
-point: it shows how each analysis evolved.
+Analista GRC junior en formación, enfocado en la intersección entre **Human Risk Management**, **gobernanza de Shadow AI** y **seguridad conductual**. Trabajo con ISO 27001, NIST CSF 2.0 y COBIT 2019.
 
-## Highlighted work
+- Estudiante de Licenciatura en Ciberdefensa (UNDEF) y Técnico Superior en Psicología Social (AMVA)
+- Autor del **VIDA Model**, un framework de riesgo para Shadow AI
+- Portfolio y casos de estudio: [sggaray.vercel.app](https://sggaray.vercel.app)
 
-| Repository | What it is | Status |
-|---|---|---|
-| [sggaray.vercel.app](https://sggaray.vercel.app/)  | Portfolio site | Live |
-| [cisco-ctf-2026](https://github.com/SGGaray/cisco-ctf-2026) | Cisco Americas Cyber Games 2026 CTF: 37/37 flags, 3/3 missions, no hints, one of 186 finishers among 1,031 participants across 21 countries | Complete |
-| [grc-case-studies](https://github.com/SGGaray/grc-case-studies) | Uber 2022 breach analysis mapped to NIST CSF 2.0 & ISO 27001 | Live |
-| [web-vuln-control-mapping](https://github.com/SGGaray/web-vuln-control-mapping) | Common web vulnerabilities mapped to risk, controls, and frameworks | Live |
+## About me (English)
 
-## Tools I actually use
+Junior GRC analyst in training, focused on the intersection of **Human Risk Management**, **Shadow AI governance**, and **behavioral security**. I work with ISO 27001, NIST CSF 2.0, and COBIT 2019.
 
-Linux (Fedora daily driver, Kali VM) · Git/GitHub Actions · Markdown-based
-documentation · Node.js (working level) · Frameworks under study: COBIT 2019,
-ISO 27001, NIST CSF, ITIL 4
+- Studying Cyberdefense (UNDEF) and Social Psychology (AMVA)
+- Author of the **VIDA Model**, a Shadow AI risk framework
+- Portfolio and case studies: [sggaray.vercel.app](https://sggaray.vercel.app)
 
-## Links
-
-Portfolio: [sggaray.vercel.app](https://sggaray.vercel.app/) ·
-LinkedIn: [in/sebastian-garay](https://www.linkedin.com/in/sebastian-garay/) ·
-Contact: garaysebastiang@gmail.com
+---

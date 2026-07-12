@@ -5,7 +5,7 @@ Uso: python3 generate_svg.py
 """
 
 LINES = [
-    ("cmd",    "sebastian@grc ~ % ./profile.sh --live"),
+    ("cmd",    "sebas@grc ~ % ./profile.sh --live"),
     ("blank",  ""),
     ("kv", ("Subject",    "Sebastian Garay")),
     ("kv", ("Role",       "GRC Analyst (Jr) - Human Risk & Shadow AI")),
@@ -20,6 +20,7 @@ LINES = [
     ("kv", ("Portfolio",  "sggaray.vercel.app")),
     ("kv", ("LinkedIn",   "linkedin.com/in/sebastian-garay")),
     ("blank",  ""),
+    ("dim",    "> links clickeables abajo / clickable links below"),
 ]
 
 THEMES = {

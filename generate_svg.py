@@ -11,7 +11,7 @@ LINES = [
     ("kv", ("Role",       "GRC Analyst (Jr) - Human Risk & Shadow AI")),
     ("kv", ("Origin",     "Buenos Aires, AR")),
     ("kv", ("Education",  "Lic. Ciberdefensa (UNDEF) - Psic. Social (AMVA)")),
-    ("kv", ("Frameworks", "ISO 27001 - NIST CSF 2.0 - COBIT 2019")),
+    ("kv", ("Frameworks", "ISO 27001 - NIST CSF 2.0")),
     ("kv", ("Focus",      "Human Risk - Behavioral Security - Shadow AI Gov.")),
     ("kv", ("Status",     "Building - Learning - Shipping")),
     ("blank",  ""),

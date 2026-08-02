@@ -12,9 +12,10 @@
 
 ## About me
 
-Junior GRC analyst in training, focused on the intersection of **Human Risk Management**, **Shadow AI governance**, and **behavioral security**. I work with ISO 27001, NIST CSF 2.0, and COBIT 2019.
+GRC analyst in training, focused on the intersection of **Human Risk Management**, **Shadow AI governance**, and **behavioral security**. I work in ISO 27001 and NIST CSF 2.0.
 
 - Studying Cyberdefense (UNDEF) and Social Psychology (AMVA)
+- Full clear at the Cisco Americas Cyber Games 2026 CTF, 37/37 flags with 0 hints, within the 3-hour window ([evidence](https://github.com/SGGaray/ctfs/tree/main/cisco-americas-cyber-games-2026))
 - Portfolio and case studies: [sggaray.vercel.app](https://sggaray.vercel.app)
 
 ---

@@ -12,7 +12,7 @@ LINES = [
     ("kv", ("Origin",     "Buenos Aires, AR")),
     ("kv", ("Education",  "Lic. Ciberdefensa (UNDEF) - Psic. Social (AMVA)")),
     ("kv", ("Frameworks", "ISO 27001 - NIST CSF 2.0 - COBIT 2019")),
-    ("kv", ("Focus",      "VIDA Model - Behavioral Security - Shadow AI Gov.")),
+    ("kv", ("Focus",      "Human Risk - Behavioral Security - Shadow AI Gov.")),
     ("kv", ("Status",     "Building - Learning - Shipping")),
     ("blank",  ""),
     ("sep",    "Contact"),

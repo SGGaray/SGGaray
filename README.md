@@ -15,7 +15,6 @@
 Junior GRC analyst in training, focused on the intersection of **Human Risk Management**, **Shadow AI governance**, and **behavioral security**. I work with ISO 27001, NIST CSF 2.0, and COBIT 2019.
 
 - Studying Cyberdefense (UNDEF) and Social Psychology (AMVA)
-- Author of the **VIDA Model**, a Shadow AI risk framework
 - Portfolio and case studies: [sggaray.vercel.app](https://sggaray.vercel.app)
 
 ---

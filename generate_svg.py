@@ -17,7 +17,7 @@ LINES = [
     ("blank",  ""),
     ("sep",    "Contact"),
     ("kv", ("Mail",       "garaysebastiang@gmail.com")),
-    ("kv", ("Portfolio",  "sggaray.vercel.app")),
+    ("kv", ("Portfolio",  "sggaray.com")),
     ("kv", ("LinkedIn",   "linkedin.com/in/sebastian-garay")),
     ("blank",  ""),
     ("dim",    "> links clickeables abajo / clickable links below"),

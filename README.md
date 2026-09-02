@@ -8,7 +8,7 @@ I study Cyber Defense at UNDEF and Social Psychology at Instituto AMVA, combinin
 
 I build practical tools, assessments, and case studies around GRC, Human Risk, cybersecurity, and AI Security.
 
-## Selected work
+## Projects
 
 **Governance, risk & analysis**
 
@@ -34,11 +34,6 @@ I build practical tools, assessments, and case studies around GRC, Human Risk, c
 |---|---|---|
 | Cisco Americas Cyber Games 2026 | Jun 2026 | [Writeups](https://github.com/SGGaray/ctfs/tree/main/cisco-americas-cyber-games-2026) · full clear, 37/37 flags, 0 hints |
 | CRDF CE3 / SANS BootUp CTF 2026 | Jul 2026 | [Writeups](https://github.com/SGGaray/ctfs/tree/main/crdf-ce3-2026) · 38/47 challenges |
-
-## Technical evidence
-
-The repositories are the record. Methodology, findings, and limitations are documented inside each one:
-[grc-case-studies](https://github.com/SGGaray/grc-case-studies) · [ctfs](https://github.com/SGGaray/ctfs) · [web-vuln-control-mapping](https://github.com/SGGaray/web-vuln-control-mapping)
 
 ## Contact
 

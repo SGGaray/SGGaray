@@ -1,4 +1,4 @@
-<img src="assets/profile-terminal.svg" width="100%" alt="Sebastian Garay - GRC and Cybersecurity profile card: Human Risk and AI Security, Buenos Aires, Argentina">
+<img src="assets/profile.svg" width="100%" alt="Sebastian Garay - GRC and Cybersecurity profile card: Human Risk and AI Security, Buenos Aires, Argentina">
 
 ## About
 

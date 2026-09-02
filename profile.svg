@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 510" width="960" height="510" role="img" aria-labelledby="cardTitle cardDesc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace">
+  <title id="cardTitle">Sebastian Garay professional profile</title>
+  <desc id="cardDesc">Profile card for Sebastian Garay. Domain: governance, risk and compliance, and cybersecurity. Focus: human risk and AI security. Located in Buenos Aires, Argentina. Studying Cyber Defense at UNDEF and Social Psychology at Instituto AMVA. Works with ISO/IEC 27001, COBIT 2019, NIST CSF 2.0 and NIST AI RMF. Status: open to governance, risk and compliance opportunities. Portfolio at sggaray.com, LinkedIn at linkedin.com/in/sebastian-garay.</desc>
+
+  <rect x="0" y="0" width="960" height="510" fill="#0B0B0C"/>
+  <rect x="0.5" y="0.5" width="959" height="509" fill="none" stroke="#242220"/>
+
+  <!-- terminal header -->
+  <text x="55" y="58" font-size="14">
+    <tspan fill="#8C867C">sebas@grc:~$ </tspan><tspan fill="#EDE8E0">./profile.sh --live</tspan>
+  </text>
+  <line x1="55" y1="82" x2="905" y2="82" stroke="#242220"/>
+  <line x1="55" y1="82" x2="115" y2="82" stroke="#C8A24C"/>
+
+  <!-- subject -->
+  <text x="55" y="128" font-size="12" letter-spacing="1.2" fill="#8C867C">SUBJECT</text>
+  <text x="240" y="130" font-size="21" fill="#EDE8E0">Sebastian Garay</text>
+
+  <!-- domain / focus / location -->
+  <text x="55" y="176" font-size="12" letter-spacing="1.2" fill="#8C867C">DOMAIN</text>
+  <text x="240" y="176" font-size="15" fill="#C8A24C">GRC · Cybersecurity</text>
+
+  <text x="55" y="208" font-size="12" letter-spacing="1.2" fill="#8C867C">FOCUS</text>
+  <text x="240" y="208" font-size="15" fill="#EDE8E0">Human Risk · AI Security</text>
+
+  <text x="55" y="240" font-size="12" letter-spacing="1.2" fill="#8C867C">LOCATION</text>
+  <text x="240" y="240" font-size="15" fill="#EDE8E0">Buenos Aires, Argentina</text>
+
+  <!-- education -->
+  <text x="55" y="284" font-size="12" letter-spacing="1.2" fill="#8C867C">EDUCATION</text>
+  <text x="240" y="284" font-size="15" fill="#EDE8E0">Cyber Defense · UNDEF</text>
+  <text x="240" y="308" font-size="15" fill="#EDE8E0">Social Psychology · Instituto AMVA</text>
+
+  <!-- frameworks -->
+  <text x="55" y="352" font-size="12" letter-spacing="1.2" fill="#8C867C">FRAMEWORKS</text>
+  <text x="240" y="352" font-size="15" fill="#EDE8E0">ISO/IEC 27001 · COBIT 2019</text>
+  <text x="240" y="376" font-size="15" fill="#EDE8E0">NIST CSF 2.0 · NIST AI RMF</text>
+
+  <!-- status -->
+  <text x="55" y="416" font-size="12" letter-spacing="1.2" fill="#8C867C">STATUS</text>
+  <circle cx="245" cy="411" r="4" fill="#5B9E70"/>
+  <text x="262" y="416" font-size="15" fill="#EDE8E0">Open to Governance, Risk &amp; Compliance opportunities.</text>
+
+  <!-- divider -->
+  <line x1="55" y1="444" x2="905" y2="444" stroke="#242220"/>
+
+  <!-- links -->
+  <text x="55" y="474" font-size="12" letter-spacing="1.2" fill="#8C867C">PORTFOLIO</text>
+  <text x="240" y="474" font-size="14" fill="#C8A24C">sggaray.com</text>
+
+  <text x="480" y="474" font-size="12" letter-spacing="1.2" fill="#8C867C">LINKEDIN</text>
+  <text x="620" y="474" font-size="14" fill="#EDE8E0">linkedin.com/in/sebastian-garay</text>
+</svg>

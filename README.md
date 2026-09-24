@@ -23,7 +23,7 @@ I build practical tools, assessments, and case studies around GRC, Human Risk, c
 
 | Repository | What it is |
 |---|---|
-| [web-vuln-control-mapping](https://github.com/SGGaray/web-vuln-control-mapping) | Reference mapping common web vulnerabilities to risk, governance controls, and frameworks (OWASP, NIST, ISO/IEC 27001). [Live](https://web-vuln-control-mapping.vercel.app/) |
+| [web-vuln-control-mapping](https://github.com/SGGaray/web-vuln-control-mapping) | Reference mapping common web vulnerabilities to risk, governance controls, and frameworks (OWASP, NIST, ISO/IEC 27001). [Live](https://wvcm.sggaray.com/) |
 | [ParlAR](https://github.com/SGGaray/ParlAR) | System-level offline voice dictation for Linux, Spanish first (faster-whisper + VAD). |
 | [GuionAR](https://github.com/SGGaray/GuionAR) | Teleprompter overlay for Linux, voice-driven scrolling, socket integration with ParlAR (PyQt6). |
 | Notita | Personal note-taking tool. Work in progress. |

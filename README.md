@@ -37,4 +37,4 @@ I build practical tools, assessments, and case studies around GRC, Human Risk, c
 
 ## Contact
 
-[Portfolio](https://sggaray.com) · [LinkedIn](https://www.linkedin.com/in/sebastian-garay/) · [garaysebastiang@gmail.com](mailto:garaysebastiang@gmail.com)
+[Portfolio](https://sggaray.com) · [LinkedIn](https://www.linkedin.com/in/sebastian-garay/) · [contacto@sggaray.com](mailto:contacto@sggaray.com)

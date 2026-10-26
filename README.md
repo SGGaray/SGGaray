@@ -9,6 +9,6 @@ Cyber Defense (UNDEF) + Social Psychology
 - **[web-vuln-control-mapping](https://github.com/SGGaray/web-vuln-control-mapping)**: maps common web vulnerabilities to OWASP Top 10, NIST SP 800-53 and ISO/IEC 27001 controls.
 - **[grc-case-studies](https://github.com/SGGaray/grc-case-studies)**: selected GRC records with public revision history and commit-linked evidence.
 - **[ParlAR](https://github.com/SGGaray/ParlAR)**: local-first voice dictation for Linux. Written threat model; Enter-key actions and saved transcripts off by default.
-- **[ctfs](https://github.com/SGGaray/ctfs)**: competition records with evidence. Cisco Americas Cyber Games 2026
+- **[ctfs](https://github.com/SGGaray/ctfs)**: CTF participation records with evidence: Cisco Americas Cyber Games 2026 and CRDF CE3 / SANS BootUp CTF 2026.
 
 [sggaray.com](https://sggaray.com) · [LinkedIn](https://www.linkedin.com/in/sebastian-garay/)
